@@ -17,8 +17,8 @@ title: Dad Notes
 email: timothy@mecklem.com
 description: > # this means to ignore newlines until "baseurl:"
   These are notes I'm leaving for the adults that my children will become
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dad-notes" # the subpath of your site, e.g. /blog
+url: "http://timothy.mecklem.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tim_mecklem
 github_username:  tmecklem
 
